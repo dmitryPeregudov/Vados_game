@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Chess Horse</string>
+    <string name="button1">Play</string>
+    <string name="button2">Help</string>
+    <string name="button3">Exit</string>
+    <string name="menu1">ReStart</string>
+    <string name="menu2">Exit</string>
+    <string name="eror">Incorrect move</string>
+    <string name="restart">Restart</string>
+    <string name="PlayAgain">Play again</string>
+    <string name="GotIt">Got It</string>
+    <string name="Help"> You must collect all chess cells by moving a horse.\n
+The cells on which the move was made- become inactive.\n Chess horse can make move:\n axis X +2 axis Y +1;\n axis X +2 axis Y -1;\n axis X -2 axis Y +1;
+        \n axis X -2 axis Y -1;\n axis X +1 axis Y +2; \n axis X +1 axis Y -2; \n axis X -1 axis Y +2;\n axis X -1 axis Y -2.\n Good Luck!! </string>
+<string name="win">You Win!!!</string>
+    <string name="back">Cancel last step</string>
+    <string name="best">Best number of moves : </string>
+    <string name="step">Number of moves : </string>
+    <string name="sorry">Sorry</string>
+    <string name="alert">You came to dead end</string>
+    <string name="replay">Replay</string>
+</resources>

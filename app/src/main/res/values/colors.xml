@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#110020</color>
+    <color name="colorPrimaryDark">#001223</color>
+    <color name="colorAccent">#022133</color>
+    <color name="light">#fefff0</color>
+    <color name="dark">#404818</color>
+    <color name="back">#6d7470</color>
+    <color name="endGradient">#02a9d7</color>
+    <color name="startGradient">#000000</color>
+    <color name="endGradient2">#46076b</color>
+    <color name="startGradient2">#000000</color>
+    <color name="endGradient3">#04d1e4</color>
+    <color name="startGradient3">#000000</color>
+</resources>

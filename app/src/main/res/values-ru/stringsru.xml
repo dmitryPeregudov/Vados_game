@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Chess Horse</string>
+    <string name="button1">Играть</string>
+    <string name="button2">Помощь</string>
+    <string name="button3">Выход</string>
+    <string name="menu1">Рестарт</string>
+    <string name="menu2">Выход</string>
+    <string name="eror">Неверный ход</string>
+    <string name="restart">Рестарт</string>
+    <string name="PlayAgain">Играть</string>
+    <string name="GotIt">Понятно</string>
+    <string name="Help"> Двигаясь конем, вы должны заполнить всю шахматную доску.\n
+Клетки на которые был сделан ход- стают неактивными.\n конь может ходить:\n ось X +2 ось Y +1;\n ось X +2 ось Y -1;\n ось X -2 ось Y +1;
+        \n ось X -2 ось Y -1;\n ось X +1 ось Y +2; \n ось X +1 ось Y -2; \n ось X -1 ось Y +2;\n ось X -1 ось Y -2.\n Удачи!! </string>
+<string name="win">Вы выиграли!!!</string>
+    <string name="back">Отменить ход</string>
+    <string name="best">Лутшее количество ходов : </string>
+    <string name="step">Количество ходов : </string>
+    <string name="sorry">Извините</string>
+    <string name="alert">Вы зашли в тупик</string>
+    <string name="replay">Начать с начала</string>
+</resources>
